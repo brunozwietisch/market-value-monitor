@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:brunozwietisch/market-value-monitor-frontend.git",
+  "author": "Bruno Zwietisch - Ibridge <bruno.fernando@ibridge.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
