@@ -1,11 +1,19 @@
 {
-  "name": "frontend",
+  "name": "market-value-monitor",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:brunozwietisch/market-value-monitor-frontend.git",
   "author": "Bruno Zwietisch - Ibridge <bruno.fernando@ibridge.com.br>",
   "license": "MIT",
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test"
+  },
   "devDependencies": {
+    "@craco/craco": "^7.1.0",
     "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "react-scripts": "^5.0.1"
   }
 }
